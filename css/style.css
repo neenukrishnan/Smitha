@@ -898,7 +898,7 @@ padding-left: 4%;
   .banner{
     background-image:  url("../images/banner_mobile_smitha.jpg") ;
     width: 100%;
-    height: 46vh;    
+     height: 100vh;   
     background-size: cover; 
     background-attachment: initial;
 }
