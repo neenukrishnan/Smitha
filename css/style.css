@@ -897,7 +897,7 @@ padding-left: 4%;
 @media only screen and (max-width: 448px){
   .banner{
     background-image:  url("../images/banner_mobile_smitha.jpg") ;
-    width: 104%;
+    width: 100%;
     height: 46vh;    
     background-size: cover; 
     background-attachment: initial;
